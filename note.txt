@@ -1,0 +1,7 @@
+go run {filename.go}
+go build {filename.go}
+go get {module name}
+
+// read: 4
+// write: 2
+// execute: 1
